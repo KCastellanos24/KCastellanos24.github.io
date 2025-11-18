@@ -36,17 +36,11 @@ header {
 
 /* Styling just for the photo in the header */
 header img {
-    width: 120px;
-    border-radius: 50%;
+    width: 140px;     /*square width*/
+    height: 140px;    /*square height*/
+    border-radius: 20%; /*rounded edges but NOT a circle*/
     object-fit: cover;
-    margin-left: 2em;   /* keep a little left margin if you like */
-}
-
-/* If you don’t have other images, you can delete this entirely,
-   or keep it simple like this: */
-
-img {
-    border-radius: 50%;
+    margin-left: 1em;   /* keep a little left margin if you like */
 }
 
 .shadow {
@@ -85,6 +79,7 @@ footer p.copyright {
     font-size: 80%;
 
 }
+
 
 
 
