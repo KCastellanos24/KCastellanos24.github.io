@@ -26,11 +26,7 @@ header h2 {
     color:black;
     text-indent: 30px;
 }
-header h3 {
-    font-size: 150%;
-    color:black;
-    text-indent: 30px;
-}
+
 img {
     margin-left: 2em;
     float: left;
@@ -72,6 +68,7 @@ footer p.copyright {
     font-size: 80%;
 
 }
+
 
 
 
