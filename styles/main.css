@@ -36,8 +36,8 @@ header {
 
 /* Styling just for the photo in the header */
 header img {
-    width: 140px;     /*square width*/
-    height: 140px;    /*square height*/
+    width: 160px;     /*square width*/
+    height: 150px;    /*square height*/
     border-radius: 20%; /*rounded edges but NOT a circle*/
     object-fit: cover;
     margin-left: 1em;   /* keep a little left margin if you like */
@@ -79,6 +79,7 @@ footer p.copyright {
     font-size: 80%;
 
 }
+
 
 
 
