@@ -27,11 +27,29 @@ header h2 {
     text-indent: 30px;
 }
 
+/* Layout for header: photo + text side by side */
+header {
+    display: flex;
+    align-items: center;
+    gap: 25px;          /* space between image and text */
+}
+
+/* Styling just for the photo in the header */
+header img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 2em;   /* keep a little left margin if you like */
+}
+
+/* If you don’t have other images, you can delete this entirely,
+   or keep it simple like this: */
+
 img {
-    margin-left: 2em;
-    float: left;
     border-radius: 50%;
 }
+
 .shadow {
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
@@ -68,6 +86,7 @@ footer p.copyright {
     font-size: 80%;
 
 }
+
 
 
 
