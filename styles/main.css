@@ -27,7 +27,7 @@ header h2 {
     text-indent: 30px;
 }
 header h3 {
-    font-size: 130%;
+    font-size: 150%;
     color:black;
     text-indent: 30px;
 }
@@ -46,7 +46,7 @@ main h3 {
     margin: 3em 2em 1.5em;
     border: 5px;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px pink;
+    box-shadow: 3px 3px 4px 4px black;
     padding: 1em;
     font-size: 105%;
 }
@@ -54,7 +54,7 @@ main nav{
     margin: 1em 2em 1.5em;
     border: 5px;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px black;
     padding: 0.5em;
 }
 #list {
@@ -64,7 +64,7 @@ div.contact{
     margin: 1.5em 2em 0em 2em;
     border: 5px;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px black;
     padding: 1em;
 }
 footer p.copyright {
@@ -72,6 +72,7 @@ footer p.copyright {
     font-size: 80%;
 
 }
+
 
 
 
